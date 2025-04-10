@@ -1,6 +1,8 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on Low-Level-Programming<br>👯 I’m looking to collaborate on Rust, C++, and C<br>🤝 I’m looking for help with Low-level machine Architecture<br>🌱 I’m currently learning C++<br>💬 Ask me about ML/DL<br>⚡ Fun fact I am just getting started <3...
+🔭 I’m currently working on Low-Level-Programming<br>👯 I’m looking to collaborate on Rust, C++, and C<br>🤝 I’m looking for help with Low-level machine Architecture<br>🌱 I’m currently learning C++<br>💬 Ask me about ML/DL<br>⚡ Fun fact I am just getting started <3...<br>🔥 New Emotion: Egoista — an unshakable drive to win, <!--<br>🗡️ To stand at the top, Even if I have to carve the path myself. No mercy 💥-->
+
+
 
 
 ## 🌐 Socials:
