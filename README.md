@@ -8,6 +8,10 @@ Building AI-first products across backend, GenAI, and data engineering. I love t
 - 🧠 Interests: GenAI toolchains, distributed systems, data platforms, full‑stack engineering
 - 🎯 Motto: Ship value fast, iterate smarter
 -->
+<!-- Dynamic GitHub Contribution Graph -->
+[![devoscientist's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devoscientist&theme=github-dark&hide_border=true&radius=6&area=true&height=300)](https://github.com/devoscientist)
+
+
 ## Hi there 👋
 
 # 💫 About Me:
@@ -65,9 +69,10 @@ still just getting started...
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevoScientist&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
-## 📈 Activity Graph
+<!--## 📈 Activity Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=DevoScientist&theme=react-dark&height=300)
+-->
 
 ## 🏆 GitHub Trophies
 <!--![](https://github-profile-trophy.vercel.app/?username=DevoScientist&theme=flat&no-frame=false&no-bg=true&margin-w=4)
@@ -94,10 +99,14 @@ still just getting started...
 | :---: | :---: |
 | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) | ![](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight) |
 ---
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DevoScientist&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DevoScientist&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://komarev.com/ghpvc/?username=DevoScientist&color=blue" alt="Profile views" width="100"/>
+
+
+
+
