@@ -16,7 +16,7 @@ Building AI-first products across backend, GenAI, and data engineering. I love t
 
 # 💫 About Me:
 🔭 Deep-diving into the world of **Low-Level Programming**  
-👯 Open to collab on **Rust, C++ & C** — let’s squeeze every last cycle out of the CPU  
+👯 Open to collab on **Python, Rust, C++ & C** — let’s squeeze every last cycle out of the CPU  
 🤝 Always curious about **machine architecture** — the closer to the metal, the better  
 🌱 Leveling up in **C++**, because pointers are just spicy variables  
 💬 Ping me about **ML/DL** — love bridging hardware-level speed with high-level smarts  
