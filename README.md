@@ -8,8 +8,6 @@ Building AI-first products across backend, GenAI, and data engineering. I love t
 - 🧠 Interests: GenAI toolchains, distributed systems, data platforms, full‑stack engineering
 - 🎯 Motto: Ship value fast, iterate smarter
 -->
-<!-- Dynamic GitHub Contribution Graph -->
-[![devoscientist's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devoscientist&theme=github-dark&hide_border=true&radius=6&area=true&height=300)](https://github.com/devoscientist)
 
 
 ## Hi there 👋
@@ -95,6 +93,8 @@ still just getting started...
 
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Random joke" />
 -->
+<!-- Dynamic GitHub Contribution Graph -->
+[![devoscientist's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devoscientist&theme=github-dark&hide_border=true&radius=6&area=true&height=300)](https://github.com/devoscientist)
 | ✍️ Random Dev Quote | ☀️ Daily dose (fun + motivation) |
 | :---: | :---: |
 | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) | ![](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight) |
