@@ -19,6 +19,7 @@ Building AI-first products across backend, GenAI, and data engineering. I love t
 🌱 Leveling up in **C++**, because pointers are just spicy variables  
 💬 Ping me about **ML/DL** — love bridging hardware-level speed with high-level smarts  
 🔥 New Emotion: **Egoista** — an unshakable drive to win
+NOW a days Trying Developements again as well as before. Now into NEXT.js and springboot
 
 ---
 
