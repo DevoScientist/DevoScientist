@@ -1,0 +1,152 @@
+{
+ "counted": {
+  "A2A-protocol": {
+   "clone_uniques": 4,
+   "clones": 4,
+   "uniques": 0,
+   "views": 0
+  },
+  "Angular-Learning": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "uniques": 0,
+   "views": 0
+  },
+  "Angular-Role-App": {
+   "clone_uniques": 4,
+   "clones": 4,
+   "uniques": 0,
+   "views": 0
+  },
+  "Angular-Routing": {
+   "clone_uniques": 3,
+   "clones": 3,
+   "uniques": 0,
+   "views": 0
+  },
+  "Angular-eCommerce-App": {
+   "clone_uniques": 5,
+   "clones": 5,
+   "uniques": 0,
+   "views": 0
+  },
+  "C-Sharp-Learning": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "uniques": 0,
+   "views": 0
+  },
+  "CRM-app-using-Django": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "uniques": 0,
+   "views": 0
+  },
+  "DevoScientist": {
+   "clone_uniques": 4,
+   "clones": 4,
+   "uniques": 1,
+   "views": 1
+  },
+  "Frontend-Mental-Health": {
+   "clone_uniques": 3,
+   "clones": 3,
+   "uniques": 0,
+   "views": 0
+  },
+  "HRMS-frontend-college-internship": {
+   "clone_uniques": 4,
+   "clones": 4,
+   "uniques": 0,
+   "views": 0
+  },
+  "HashLink": {
+   "clone_uniques": 3,
+   "clones": 3,
+   "uniques": 0,
+   "views": 0
+  },
+  "Local-RAG": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "uniques": 0,
+   "views": 0
+  },
+  "LunaThink": {
+   "clone_uniques": 4,
+   "clones": 4,
+   "uniques": 0,
+   "views": 0
+  },
+  "OCR-text-extraction": {
+   "clone_uniques": 3,
+   "clones": 3,
+   "uniques": 0,
+   "views": 0
+  },
+  "StreamLit-Deploy-Lunathink": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "uniques": 0,
+   "views": 0
+  },
+  "TRCG-Agent": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "uniques": 0,
+   "views": 0
+  },
+  "We-Hire-Model": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "uniques": 0,
+   "views": 0
+  },
+  "fastapi-auth-RBAC": {
+   "clone_uniques": 5,
+   "clones": 5,
+   "uniques": 0,
+   "views": 0
+  },
+  "fastapi-practice": {
+   "clone_uniques": 5,
+   "clones": 5,
+   "uniques": 0,
+   "views": 0
+  },
+  "harmony.ai": {
+   "clone_uniques": 22,
+   "clones": 25,
+   "uniques": 0,
+   "views": 0
+  },
+  "health-care-app": {
+   "clone_uniques": 4,
+   "clones": 4,
+   "uniques": 0,
+   "views": 0
+  },
+  "security": {
+   "clone_uniques": 3,
+   "clones": 3,
+   "uniques": 0,
+   "views": 0
+  }
+ },
+ "ignored_forks": [
+  "Aadhar_Api",
+  "HarmonyAI",
+  "Sign_Language_Translator_Web_App_Yolo_Flask",
+  "build-your-own-x",
+  "final-oracle",
+  "fullstack-course4",
+  "journalApp",
+  "open-code-review",
+  "opencv",
+  "skills",
+  "system-design-primer",
+  "tiny_python_projects"
+ ],
+ "updated": "2026-09-21",
+ "window": "last 14 days as reported by GitHub"
+}
