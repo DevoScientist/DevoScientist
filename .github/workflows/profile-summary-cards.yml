@@ -3,6 +3,12 @@ name: GitHub-Profile-Summary-Cards
 on:
   schedule:
     - cron: "0 0 * * *" # once a day at 00:00 UTC
+  push: # also run after every push to the main branch
+    branches: [main, master]
+    paths-ignore: # skip pushes that only contain the files this workflow generates
+      - "profile-summary-card-output/**"
+      - "assets/traffic.svg"
+      - "traffic-data/**"
   workflow_dispatch: # lets you run it manually from the Actions tab
 
 # Never let two runs overlap: overlapping runs make "git push" get rejected.
@@ -28,14 +34,23 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: ${{ github.ref_name }}
           THEME: "tokyonight" # only generate the theme the README uses
-          AUTO_PUSH: false # we commit and push ourselves in the next step
+          AUTO_PUSH: false # we commit and push ourselves in the last step
+
+      - name: Update traffic card
+        continue-on-error: true # a traffic problem must never block the stats cards
+        env:
+          TRAFFIC_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+        run: python3 scripts/traffic.py
 
       - name: Commit and push the cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-summary-card-output
-          git commit -m "chore: update profile summary cards" || echo "Nothing new to commit"
+          for path in profile-summary-card-output assets/traffic.svg traffic-data; do
+            if [ -e "$path" ]; then git add "$path"; fi
+          done
+          git commit -m "chore: update profile cards and traffic" || echo "Nothing new to commit"
           for attempt in 1 2 3; do
             git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" \
               && git push origin "HEAD:${GITHUB_REF_NAME}" \
