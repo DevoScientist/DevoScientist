@@ -46,12 +46,11 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="48%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
-  <img width="48%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img width="96%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img width="48%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo" />
+  <img width="48%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
   <img width="48%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit" />
 </p>
 
