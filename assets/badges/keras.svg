@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="26" viewBox="0 0 82 26" role="img" aria-label="Keras">
+<title>Keras</title>
+<rect x="0.5" y="0.5" width="81" height="25" rx="5" fill="#D00000" stroke="#8b949e" stroke-opacity="0.35"/>
+<g transform="translate(10 6.0) scale(0.5833333333333334)"><path d="M24 0H0v24h24V0zM8.45 5.16l.2.17v6.24l6.46-6.45h1.96l.2.4-5.14 5.1 5.47 7.94-.2.3h-1.94l-4.65-6.88-2.16 2.08v4.6l-.19.2H7l-.2-.2V5.33l.17-.17h1.48z" fill="#ffffff"/></g>
+<text x="31" y="17.3" fill="#ffffff" font-family="Verdana,'DejaVu Sans','Segoe UI',Arial,sans-serif" font-size="12" font-weight="700" textLength="38.4" lengthAdjust="spacingAndGlyphs">Keras</text>
+</svg>

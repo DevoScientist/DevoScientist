@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="117" height="26" viewBox="0 0 117 26" role="img" aria-label="LangGraph">
+<title>LangGraph</title>
+<rect x="0.5" y="0.5" width="116" height="25" rx="5" fill="#2E7D32" stroke="#8b949e" stroke-opacity="0.35"/>
+<g transform="translate(10 6.0) scale(0.5833333333333334)"><path d="M5 19H10A5 5 0 115 14ZM19 14A5 5 0 1114 19H19ZM10 5A5 5 0 105 10V5ZM19 5V10A5 5 0 1014 5Z" fill="#ffffff"/></g>
+<text x="31" y="17.3" fill="#ffffff" font-family="Verdana,'DejaVu Sans','Segoe UI',Arial,sans-serif" font-size="12" font-weight="700" textLength="73.9" lengthAdjust="spacingAndGlyphs">LangGraph</text>
+</svg>

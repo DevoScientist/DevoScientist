@@ -1,113 +1,78 @@
-<!--## Hi there 👋
-# 💫 About Me:
-🔭 I’m currently working on Low-Level-Programming<br>👯 I’m looking to collaborate on Rust, C++, and C<br>🤝 I’m looking for help with Low-level machine Architecture<br>🌱 I’m currently learning C++<br>💬 Ask me about ML/DL<br>⚡ Fun fact I am just getting started <3...<br>🔥 New Emotion: <b>Egoista</b> — an unshakable drive to win, 
-<!--<br>🗡️ To stand at the top, Even if I have to carve the path myself. No mercy 💥-->
-<!--<br><br>
-Building AI-first products across backend, GenAI, and data engineering. I love turning messy problems into clean, scalable systems.
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Anubhab Mohanty - AI Engineer" />
+</p>
 
-- 🧠 Interests: GenAI toolchains, distributed systems, data platforms, full‑stack engineering
-- 🎯 Motto: Ship value fast, iterate smarter
--->
+<p align="center">
+  <img src="./assets/typing.svg" alt="AI Engineer | Building backend systems & APIs with Python, FastAPI & Pydantic | Turning messy problems into elegant, scalable systems" />
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/anubhab-mohanty-a61738138/"><img src="./assets/social/linkedin.svg" height="38" alt="LinkedIn" /></a>
+  <a href="https://x.com/anubhab13rta"><img src="./assets/social/x.svg" height="38" alt="X" /></a>
+  <a href="https://www.twitch.tv/devoscientist"><img src="./assets/social/twitch.svg" height="38" alt="Twitch" /></a>
+  <a href="https://github.com/DevoScientist"><img src="./assets/social/github.svg" height="38" alt="GitHub" /></a>
+</p>
 
-## Hi there 👋
+<br>
 
-# 💫 About Me:
-🔭 Deep-diving into the world of **Low-Level Programming**  
-👯 Open to collab on **Python, Rust, C++ & C** — let’s squeeze every last cycle out of the CPU  
-🤝 Always curious about **machine architecture** — the closer to the metal, the better  
-🌱 Leveling up in **C++**, because pointers are just spicy variables  
-💬 Ping me about **ML/DL** — love bridging hardware-level speed with high-level smarts  
-🔥 New Emotion: **Egoista** — an unshakable drive to win
-<br>NOW a days Trying Developement again as before. Now into NEXT.js and springboot
+<h2 align="center">👋 About Me</h2>
 
----
+| 🧠 Role | ⚙️ Building | 🔭 Exploring | 🤝 Open to Collab |
+| :---: | :---: | :---: | :---: |
+| **AI Engineer** shipping AI-first products across backend, GenAI & data engineering | Backend systems & APIs with **Python, FastAPI & Pydantic** | Low-level programming, **C++**, machine architecture, Next.js & Spring Boot | **Python, Rust, C++ & C** |
 
-🚀 **Currently**: Building **AI-first products** at the intersection of backend, GenAI, and data engineering.  
-I enjoy turning chaotic, messy problems into elegant, scalable systems.  
+<p align="center">
+  💬 Ask me about <b>Agentic AI</b> &nbsp;·&nbsp; <b>GenAI</b> &nbsp;·&nbsp; <b>ML</b> &nbsp;·&nbsp; <b>DL</b> &nbsp;·&nbsp; <b>TypeScript</b> &nbsp;·&nbsp; <b>Next.js</b>
+  <br>
+  🔥 Driven by <b>Egoista</b>, an unshakable drive to win &nbsp;·&nbsp; 🎯 <i>Ship value fast. Iterate smarter.</i>
+</p>
 
-### 🌌 My Tech Playground
-- 🧠 Interests: GenAI toolchains, distributed systems, data platforms, full-stack engineering  
-- 🎯 Motto: *Ship value fast. Iterate smarter.*  
-- 🕹️ Fun twist: I see coding as half science, half game — the trick is playing both well.  
-- `>_` Wisdom: *The shell never judges… but it does silently mock every typo.*  
+<br>
 
----
-`>_` **Terminal Session**
+<h2 align="center">💻 Tech Stack</h2>
+
+| Domain | Stack |
+| :--- | :--- |
+| **Languages** | ![Python](./assets/badges/python.svg) ![TypeScript](./assets/badges/typescript.svg) ![C++](./assets/badges/cpp.svg) ![Java](./assets/badges/java.svg) |
+| **Backend & APIs** | ![FastAPI](./assets/badges/fastapi.svg) ![Pydantic](./assets/badges/pydantic.svg) ![Django](./assets/badges/django.svg) ![Flask](./assets/badges/flask.svg) ![Spring Boot](./assets/badges/springboot.svg) |
+| **Frontend** | ![Next.js](./assets/badges/nextjs.svg) ![Angular](./assets/badges/angular.svg) |
+| **AI & GenAI** | ![OpenAI](./assets/badges/openai.svg) ![LangChain](./assets/badges/langchain.svg) ![LangGraph](./assets/badges/langgraph.svg) ![AutoGen](./assets/badges/autogen.svg) ![PyTorch](./assets/badges/pytorch.svg) ![TensorFlow](./assets/badges/tensorflow.svg) ![Keras](./assets/badges/keras.svg) ![scikit-learn](./assets/badges/sklearn.svg) |
+| **Data Engineering** | ![NumPy](./assets/badges/numpy.svg) ![Pandas](./assets/badges/pandas.svg) ![Matplotlib](./assets/badges/matplotlib.svg) ![Apache Spark](./assets/badges/spark.svg) ![Apache Kafka](./assets/badges/kafka.svg) ![Delta Lake](./assets/badges/deltalake.svg) ![Databricks](./assets/badges/databricks.svg) |
+| **Databases** | ![PostgreSQL](./assets/badges/postgresql.svg) ![PgVector](./assets/badges/pgvector.svg) ![MySQL](./assets/badges/mysql.svg) ![MongoDB](./assets/badges/mongodb.svg) |
+| **Tools & Platforms** | ![Docker](./assets/badges/docker.svg) ![Git](./assets/badges/git.svg) ![GitHub](./assets/badges/github.svg) ![VS Code](./assets/badges/vscode.svg) ![PyCharm](./assets/badges/pycharm.svg) ![Jupyter](./assets/badges/jupyter.svg) ![Anaconda](./assets/badges/anaconda.svg) ![Linux](./assets/badges/linux.svg) ![Ubuntu](./assets/badges/ubuntu.svg) ![Fedora](./assets/badges/fedora.svg) ![Windows](./assets/badges/windows.svg) |
+
+<br>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img width="48%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+  <img width="48%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img width="48%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo" />
+  <img width="48%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit" />
+</p>
+
+<br>
+
+<h2 align="center">>_ Terminal Session</h2>
+
 ```bash
 user@devoscientist:~$ whoami
-low-level dreamer | AI tinkerer | system builder
+AI engineer | low-level dreamer | system builder
 
 user@devoscientist:~$ uptime
 still just getting started...
 ```
-## 🌐 Socials:
-<!--[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@anubhab13rta) -->
-<p align="left">
-  <a href="https://www.linkedin.com/in/anubhab-mohanty-a61738138/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anubhab%20Mohanty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/anubhab13rta"><img alt="X" src="https://img.shields.io/badge/X-@anubhab13rta-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://www.twitch.tv/devoscientist"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-Devoscientist-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-  <a href="https://github.com/DevoScientist"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-DevoScientist-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
+<p align="center">
+  <i>The shell never judges… but it does silently mock every typo.</i>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevoScientist&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
 
-# 💻 Tech Stack:
-<!--![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
--->
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=plastic&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-2E7D32?style=plastic&logo=graphql&logoColor=white) ![AutoGen](https://img.shields.io/badge/AutoGen-0066CC?style=plastic&logo=microsoft&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=plastic&logo=apachespark&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=plastic&logo=delta&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=plastic&logo=databricks&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![PgVector](https://img.shields.io/badge/PgVector-336791?style=plastic&logo=postgresql&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=plastic&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=plastic&logo=fedora&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
----
-<!--# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevoScientist&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevoScientist&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevoScientist&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
-# 📊 GitHub Stats:
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DevoScientist&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=DevoScientist&theme=dark&hide_border=false" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevoScientist&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
-
-<!--## 📈 Activity Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=DevoScientist&theme=react-dark&height=300)
--->
-
-## 🏆 GitHub Trophies
-<!--![](https://github-profile-trophy.vercel.app/?username=DevoScientist&theme=flat&no-frame=false&no-bg=true&margin-w=4)
-![](https://github-profile-trophy.vercel.app/?username=DevoScientist&theme=flat&no-frame=false&no-bg=true&margin-w=4)
-![](hDevoScientistttps://github-profile-trophy.vercel.app/?username=DevoScientist&theme=radical&no-frame=false&margin-w=4)
-
-![](https://github-profile-trophy.vercel.app/?username=devoscientist&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-![](https://github-profile-trophy.vercel.app/?username=DevoScientist&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
-![](https://github-profile-trophy.vercel.app/?username=DevoScientist)
--->
-![](https://github-trophies.vercel.app/?username=DevoScientist&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### ☀️ Daily dose (fun + motivation)
-- A laugh a day:
-
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Random joke" />
--->
-<!-- Dynamic GitHub Contribution Graph -->
-[![devoscientist's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devoscientist&theme=github-dark&hide_border=true&radius=6&area=true&height=300)](https://github.com/devoscientist)
-| ✍️ Random Dev Quote | ☀️ Daily dose (fun + motivation) |
-| :---: | :---: |
-| ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) | ![](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight) |
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DevoScientist&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-<img src="https://komarev.com/ghpvc/?username=DevoScientist&color=blue" alt="Profile views" width="100"/>
-
-
-
-
+<img src="./assets/footer.svg" width="100%" alt="" />

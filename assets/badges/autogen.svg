@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="102" height="26" viewBox="0 0 102 26" role="img" aria-label="AutoGen">
+<title>AutoGen</title>
+<rect x="0.5" y="0.5" width="101" height="25" rx="5" fill="#0066CC" stroke="#8b949e" stroke-opacity="0.35"/>
+<g transform="translate(10 6.0) scale(0.5833333333333334)"><path d="M0 0v11.408h11.408V0zm12.594 0v11.408H24V0zM0 12.594V24h11.408V12.594zm12.594 0V24H24V12.594z" fill="#ffffff"/></g>
+<text x="31" y="17.3" fill="#ffffff" font-family="Verdana,'DejaVu Sans','Segoe UI',Arial,sans-serif" font-size="12" font-weight="700" textLength="58.3" lengthAdjust="spacingAndGlyphs">AutoGen</text>
+</svg>

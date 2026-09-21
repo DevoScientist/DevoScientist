@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="97" height="26" viewBox="0 0 97 26" role="img" aria-label="Angular">
+<title>Angular</title>
+<rect x="0.5" y="0.5" width="96" height="25" rx="5" fill="#DD0031" stroke="#8b949e" stroke-opacity="0.35"/>
+<g transform="translate(10 6.0) scale(0.5833333333333334)"><path d="M16.712 17.711H7.288l-1.204 2.916L12 24l5.916-3.373-1.204-2.916ZM14.692 0l7.832 16.855.814-12.856L14.692 0ZM9.308 0 .662 3.999l.814 12.856L9.308 0Zm-.405 13.93h6.198L12 6.396 8.903 13.93Z" fill="#ffffff"/></g>
+<text x="31" y="17.3" fill="#ffffff" font-family="Verdana,'DejaVu Sans','Segoe UI',Arial,sans-serif" font-size="12" font-weight="700" textLength="53.1" lengthAdjust="spacingAndGlyphs">Angular</text>
+</svg>
