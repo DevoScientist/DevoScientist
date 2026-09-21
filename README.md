@@ -22,7 +22,7 @@
 | **AI Engineer** shipping AI-first products across backend, GenAI & data engineering | Backend systems & APIs with **Python, FastAPI & Pydantic** | Low-level programming, **C++**, machine architecture, Next.js & Spring Boot | **Python, Rust, C++ & C** |
 
 <p align="center">
-  💬 Ask me about <b>Agentic AI</b> &nbsp;·&nbsp; <b>GenAI</b> &nbsp;·&nbsp; <b>ML</b> &nbsp;·&nbsp; <b>DL</b> &nbsp;·&nbsp; <b>TypeScript</b> &nbsp;·&nbsp; <b>Next.js</b>
+  💬 Ask me about <b>Agentic AI</b> &nbsp;·&nbsp; <b>GenAI</b> &nbsp;·&nbsp; <b>ML</b> &nbsp;·&nbsp; <b>DL</b>
   <br>
   🔥 Driven by <b>Egoista</b>, an unshakable drive to win &nbsp;·&nbsp; 🎯 <i>Ship value fast. Iterate smarter.</i>
 </p>
