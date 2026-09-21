@@ -44,14 +44,17 @@ def list_repos(owner, token):
         batch = api(f"/users/{owner}/repos?type=owner&per_page=100&page={page}", token)
         repos += batch
         if len(batch) < 100:
-            return [r for r in repos if not r.get("fork")]
+            return repos
         page += 1
 
 
 def collect(owner, token):
-    """Aggregate per-day numbers across all public, non-fork repos."""
-    days, totals, ok, failed = {}, dict(views=0, uniques=0, clones=0, clone_uniques=0), 0, 0
-    repos = list_repos(owner, token)
+    """Aggregate per-day numbers across all public, non-fork repos owned by `owner`."""
+    days, totals = {}, dict(views=0, uniques=0, clones=0, clone_uniques=0)
+    per_repo, ok, failed = {}, 0, 0
+    everything = list_repos(owner, token)
+    forks = sorted(r["name"] for r in everything if r.get("fork"))
+    repos = [r for r in everything if not r.get("fork")]
     for repo in repos:
         name = repo["name"]
         try:
@@ -59,9 +62,11 @@ def collect(owner, token):
             c = api(f"/repos/{owner}/{name}/traffic/clones", token)
         except urllib.error.HTTPError as e:
             failed += 1
-            print(f"  skip {name}: HTTP {e.code}")
+            per_repo[name] = {"error": f"HTTP {e.code}"}
             continue
         ok += 1
+        per_repo[name] = dict(views=v.get("count", 0), uniques=v.get("uniques", 0),
+                              clones=c.get("count", 0), clone_uniques=c.get("uniques", 0))
         totals["views"] += v.get("count", 0)
         totals["uniques"] += v.get("uniques", 0)
         totals["clones"] += c.get("count", 0)
@@ -74,7 +79,28 @@ def collect(owner, token):
             d = days.setdefault(row["timestamp"][:10], dict(views=0, uniques=0, clones=0, clone_uniques=0))
             d["clones"] += row["count"]
             d["clone_uniques"] += row["uniques"]
-    return days, totals, len(repos), ok, failed
+    return days, totals, len(repos), ok, failed, per_repo, forks
+
+
+def report(per_repo, forks):
+    """Print exactly which repositories were counted, so the numbers can be checked."""
+    print(f"Counted repositories ({len(per_repo)}), busiest first:")
+    good = {k: v for k, v in per_repo.items() if "error" not in v}
+    for name, v in sorted(good.items(), key=lambda kv: -(kv[1]["clones"] + kv[1]["views"])):
+        print(f"  {name:<40} views {v['views']:>4}  unique {v['uniques']:>3}  clones {v['clones']:>4}")
+    for name, v in per_repo.items():
+        if "error" in v:
+            print(f"  {name:<40} SKIPPED ({v['error']})")
+    print(f"Ignored forks ({len(forks)}): {', '.join(forks) if forks else 'none'}")
+
+
+def save_repo_breakdown(per_repo, forks):
+    path = os.path.join(ROOT, "traffic-data", "repos.json")
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    json.dump({"updated": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d"),
+               "window": "last 14 days as reported by GitHub",
+               "counted": per_repo, "ignored_forks": forks},
+              open(path, "w"), indent=1, sort_keys=True)
 
 
 # ----------------------------------------------------------------------- history
@@ -193,10 +219,12 @@ def main():
     if not token or not owner:
         sys.exit("TRAFFIC_TOKEN or OWNER is missing - add the TRAFFIC_TOKEN secret (see instructions). Card left unchanged.")
     try:
-        days, totals, repo_count, ok, failed = collect(owner, token)
+        days, totals, repo_count, ok, failed, per_repo, forks = collect(owner, token)
     except urllib.error.HTTPError as e:
         sys.exit(f"GitHub API returned HTTP {e.code} while listing repositories - check the token. Card left unchanged.")
+    report(per_repo, forks)
     print(f"{ok} repos read, {failed} skipped")
+    save_repo_breakdown(per_repo, forks)
     if ok == 0:
         sys.exit('No repository traffic could be read. The token needs "Administration: Read" on your repositories. Card left unchanged.')
     hist = merge_history(days, repo_count)
