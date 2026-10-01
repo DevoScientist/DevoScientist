@@ -7,20 +7,20 @@
    "views": 0
   },
   "Angular-Learning": {
-   "clone_uniques": 5,
-   "clones": 5,
+   "clone_uniques": 4,
+   "clones": 4,
    "uniques": 0,
    "views": 0
   },
   "Angular-Role-App": {
-   "clone_uniques": 6,
-   "clones": 6,
+   "clone_uniques": 4,
+   "clones": 4,
    "uniques": 0,
    "views": 0
   },
   "Angular-Routing": {
-   "clone_uniques": 4,
-   "clones": 4,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   },
@@ -31,8 +31,8 @@
    "views": 0
   },
   "C-Sharp-Learning": {
-   "clone_uniques": 1,
-   "clones": 1,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
@@ -43,8 +43,8 @@
    "views": 0
   },
   "DevoScientist": {
-   "clone_uniques": 99,
-   "clones": 226,
+   "clone_uniques": 100,
+   "clones": 230,
    "uniques": 1,
    "views": 1
   },
@@ -73,14 +73,14 @@
    "views": 0
   },
   "LunaThink": {
-   "clone_uniques": 4,
-   "clones": 4,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   },
   "OCR-text-extraction": {
-   "clone_uniques": 3,
-   "clones": 3,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
@@ -103,14 +103,14 @@
    "views": 0
   },
   "fastapi-auth-RBAC": {
-   "clone_uniques": 6,
-   "clones": 6,
+   "clone_uniques": 5,
+   "clones": 5,
    "uniques": 0,
    "views": 0
   },
   "fastapi-practice": {
-   "clone_uniques": 5,
-   "clones": 5,
+   "clone_uniques": 4,
+   "clones": 4,
    "uniques": 0,
    "views": 0
   },
@@ -121,14 +121,14 @@
    "views": 0
   },
   "health-care-app": {
-   "clone_uniques": 6,
-   "clones": 6,
+   "clone_uniques": 5,
+   "clones": 5,
    "uniques": 0,
    "views": 0
   },
   "security": {
-   "clone_uniques": 5,
-   "clones": 5,
+   "clone_uniques": 4,
+   "clones": 4,
    "uniques": 0,
    "views": 0
   }
@@ -148,6 +148,6 @@
   "system-design-primer",
   "tiny_python_projects"
  ],
- "updated": "2026-09-30",
+ "updated": "2026-10-01",
  "window": "last 14 days as reported by GitHub"
 }
