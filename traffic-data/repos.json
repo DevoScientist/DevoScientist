@@ -1,14 +1,14 @@
 {
  "counted": {
   "A2A-protocol": {
-   "clone_uniques": 4,
-   "clones": 4,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   },
   "Angular-Learning": {
-   "clone_uniques": 4,
-   "clones": 4,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   },
@@ -25,8 +25,8 @@
    "views": 0
   },
   "Angular-eCommerce-App": {
-   "clone_uniques": 6,
-   "clones": 6,
+   "clone_uniques": 5,
+   "clones": 5,
    "uniques": 0,
    "views": 0
   },
@@ -43,8 +43,8 @@
    "views": 0
   },
   "DevoScientist": {
-   "clone_uniques": 113,
-   "clones": 257,
+   "clone_uniques": 114,
+   "clones": 261,
    "uniques": 1,
    "views": 1
   },
@@ -55,8 +55,8 @@
    "views": 0
   },
   "HRMS-frontend-college-internship": {
-   "clone_uniques": 4,
-   "clones": 4,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   },
@@ -103,8 +103,8 @@
    "views": 0
   },
   "fastapi-auth-RBAC": {
-   "clone_uniques": 5,
-   "clones": 5,
+   "clone_uniques": 4,
+   "clones": 4,
    "uniques": 0,
    "views": 0
   },
@@ -115,20 +115,20 @@
    "views": 0
   },
   "harmony.ai": {
-   "clone_uniques": 8,
-   "clones": 11,
+   "clone_uniques": 1,
+   "clones": 1,
    "uniques": 0,
    "views": 0
   },
   "health-care-app": {
-   "clone_uniques": 5,
-   "clones": 5,
+   "clone_uniques": 4,
+   "clones": 4,
    "uniques": 0,
    "views": 0
   },
   "security": {
-   "clone_uniques": 4,
-   "clones": 4,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   }
@@ -148,6 +148,6 @@
   "system-design-primer",
   "tiny_python_projects"
  ],
- "updated": "2026-10-03",
+ "updated": "2026-10-04",
  "window": "last 14 days as reported by GitHub"
 }
