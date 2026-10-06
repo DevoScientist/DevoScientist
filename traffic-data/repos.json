@@ -19,8 +19,8 @@
    "views": 0
   },
   "Angular-Routing": {
-   "clone_uniques": 4,
-   "clones": 4,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   },
@@ -37,16 +37,16 @@
    "views": 0
   },
   "CRM-app-using-Django": {
-   "clone_uniques": 3,
-   "clones": 3,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
   "DevoScientist": {
-   "clone_uniques": 125,
-   "clones": 281,
-   "uniques": 0,
-   "views": 0
+   "clone_uniques": 127,
+   "clones": 289,
+   "uniques": 1,
+   "views": 3
   },
   "Frontend-Mental-Health": {
    "clone_uniques": 4,
@@ -67,14 +67,14 @@
    "views": 0
   },
   "Local-RAG": {
-   "clone_uniques": 3,
-   "clones": 3,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
   "LunaThink": {
-   "clone_uniques": 3,
-   "clones": 3,
+   "clone_uniques": 4,
+   "clones": 4,
    "uniques": 0,
    "views": 0
   },
@@ -109,8 +109,8 @@
    "views": 0
   },
   "fastapi-practice": {
-   "clone_uniques": 4,
-   "clones": 4,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   },
@@ -148,6 +148,6 @@
   "system-design-primer",
   "tiny_python_projects"
  ],
- "updated": "2026-10-05",
+ "updated": "2026-10-06",
  "window": "last 14 days as reported by GitHub"
 }
