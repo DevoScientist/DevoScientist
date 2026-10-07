@@ -7,56 +7,56 @@
    "views": 0
   },
   "Angular-Learning": {
-   "clone_uniques": 3,
-   "clones": 3,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
   "Angular-Role-App": {
-   "clone_uniques": 4,
-   "clones": 4,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   },
   "Angular-Routing": {
-   "clone_uniques": 3,
-   "clones": 3,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
   "Angular-eCommerce-App": {
-   "clone_uniques": 5,
-   "clones": 5,
-   "uniques": 0,
-   "views": 0
-  },
-  "C-Sharp-Learning": {
-   "clone_uniques": 2,
-   "clones": 2,
-   "uniques": 0,
-   "views": 0
-  },
-  "CRM-app-using-Django": {
-   "clone_uniques": 2,
-   "clones": 2,
-   "uniques": 0,
-   "views": 0
-  },
-  "DevoScientist": {
-   "clone_uniques": 127,
-   "clones": 289,
-   "uniques": 1,
-   "views": 3
-  },
-  "Frontend-Mental-Health": {
    "clone_uniques": 4,
    "clones": 4,
    "uniques": 0,
    "views": 0
   },
-  "HRMS-frontend-college-internship": {
+  "C-Sharp-Learning": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "uniques": 0,
+   "views": 0
+  },
+  "CRM-app-using-Django": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "uniques": 0,
+   "views": 0
+  },
+  "DevoScientist": {
+   "clone_uniques": 81,
+   "clones": 166,
+   "uniques": 1,
+   "views": 3
+  },
+  "Frontend-Mental-Health": {
    "clone_uniques": 3,
    "clones": 3,
+   "uniques": 0,
+   "views": 0
+  },
+  "HRMS-frontend-college-internship": {
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
@@ -67,26 +67,26 @@
    "views": 0
   },
   "Local-RAG": {
-   "clone_uniques": 2,
-   "clones": 2,
+   "clone_uniques": 1,
+   "clones": 1,
    "uniques": 0,
    "views": 0
   },
   "LunaThink": {
-   "clone_uniques": 4,
-   "clones": 4,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   },
   "OCR-text-extraction": {
-   "clone_uniques": 2,
-   "clones": 2,
+   "clone_uniques": 1,
+   "clones": 1,
    "uniques": 0,
    "views": 0
   },
   "StreamLit-Deploy-Lunathink": {
-   "clone_uniques": 3,
-   "clones": 3,
+   "clone_uniques": 1,
+   "clones": 1,
    "uniques": 0,
    "views": 0
   },
@@ -103,32 +103,32 @@
    "views": 0
   },
   "fastapi-auth-RBAC": {
-   "clone_uniques": 4,
-   "clones": 4,
-   "uniques": 0,
-   "views": 0
-  },
-  "fastapi-practice": {
    "clone_uniques": 3,
    "clones": 3,
    "uniques": 0,
    "views": 0
   },
-  "harmony.ai": {
+  "fastapi-practice": {
    "clone_uniques": 2,
    "clones": 2,
    "uniques": 0,
    "views": 0
   },
+  "harmony.ai": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "uniques": 0,
+   "views": 0
+  },
   "health-care-app": {
-   "clone_uniques": 4,
-   "clones": 4,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   },
   "security": {
-   "clone_uniques": 4,
-   "clones": 4,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   }
@@ -148,6 +148,6 @@
   "system-design-primer",
   "tiny_python_projects"
  ],
- "updated": "2026-10-06",
+ "updated": "2026-10-07",
  "window": "last 14 days as reported by GitHub"
 }
