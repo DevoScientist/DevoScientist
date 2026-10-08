@@ -1,8 +1,8 @@
 {
  "counted": {
   "A2A-protocol": {
-   "clone_uniques": 3,
-   "clones": 3,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
@@ -43,8 +43,8 @@
    "views": 0
   },
   "DevoScientist": {
-   "clone_uniques": 81,
-   "clones": 166,
+   "clone_uniques": 85,
+   "clones": 170,
    "uniques": 1,
    "views": 3
   },
@@ -67,8 +67,8 @@
    "views": 0
   },
   "Local-RAG": {
-   "clone_uniques": 1,
-   "clones": 1,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
@@ -79,8 +79,8 @@
    "views": 0
   },
   "OCR-text-extraction": {
-   "clone_uniques": 1,
-   "clones": 1,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   },
@@ -97,8 +97,8 @@
    "views": 0
   },
   "We-Hire-Model": {
-   "clone_uniques": 1,
-   "clones": 1,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
@@ -148,6 +148,6 @@
   "system-design-primer",
   "tiny_python_projects"
  ],
- "updated": "2026-10-07",
+ "updated": "2026-10-08",
  "window": "last 14 days as reported by GitHub"
 }
