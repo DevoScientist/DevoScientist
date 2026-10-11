@@ -1,8 +1,8 @@
 {
  "counted": {
   "A2A-protocol": {
-   "clone_uniques": 1,
-   "clones": 1,
+   "clone_uniques": 2,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   },
@@ -19,8 +19,8 @@
    "views": 0
   },
   "Angular-Routing": {
-   "clone_uniques": 1,
-   "clones": 1,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
@@ -37,14 +37,14 @@
    "views": 0
   },
   "CRM-app-using-Django": {
-   "clone_uniques": 1,
-   "clones": 1,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
   "DevoScientist": {
-   "clone_uniques": 90,
-   "clones": 180,
+   "clone_uniques": 82,
+   "clones": 170,
    "uniques": 1,
    "views": 3
   },
@@ -61,14 +61,14 @@
    "views": 0
   },
   "HashLink": {
-   "clone_uniques": 1,
-   "clones": 1,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
   "Local-RAG": {
-   "clone_uniques": 2,
-   "clones": 2,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   },
@@ -103,14 +103,14 @@
    "views": 0
   },
   "fastapi-auth-RBAC": {
-   "clone_uniques": 3,
-   "clones": 3,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
   "fastapi-practice": {
-   "clone_uniques": 1,
-   "clones": 1,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
@@ -121,14 +121,14 @@
    "views": 0
   },
   "health-care-app": {
-   "clone_uniques": 2,
-   "clones": 2,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   },
   "security": {
-   "clone_uniques": 2,
-   "clones": 2,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   }
@@ -148,6 +148,6 @@
   "system-design-primer",
   "tiny_python_projects"
  ],
- "updated": "2026-10-10",
+ "updated": "2026-10-11",
  "window": "last 14 days as reported by GitHub"
 }
