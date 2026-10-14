@@ -31,8 +31,8 @@
    "views": 0
   },
   "C-Sharp-Learning": {
-   "clone_uniques": 1,
-   "clones": 1,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
@@ -43,8 +43,8 @@
    "views": 0
   },
   "DevoScientist": {
-   "clone_uniques": 75,
-   "clones": 155,
+   "clone_uniques": 86,
+   "clones": 173,
    "uniques": 1,
    "views": 3
   },
@@ -73,8 +73,8 @@
    "views": 0
   },
   "LunaThink": {
-   "clone_uniques": 2,
-   "clones": 2,
+   "clone_uniques": 4,
+   "clones": 4,
    "uniques": 0,
    "views": 0
   },
@@ -109,8 +109,8 @@
    "views": 0
   },
   "fastapi-practice": {
-   "clone_uniques": 3,
-   "clones": 3,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
@@ -121,8 +121,8 @@
    "views": 0
   },
   "health-care-app": {
-   "clone_uniques": 3,
-   "clones": 3,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
@@ -148,6 +148,6 @@
   "system-design-primer",
   "tiny_python_projects"
  ],
- "updated": "2026-10-13",
+ "updated": "2026-10-14",
  "window": "last 14 days as reported by GitHub"
 }
