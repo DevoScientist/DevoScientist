@@ -7,8 +7,8 @@
    "views": 0
   },
   "Angular-Learning": {
-   "clone_uniques": 3,
-   "clones": 3,
+   "clone_uniques": 4,
+   "clones": 4,
    "uniques": 0,
    "views": 0
   },
@@ -19,8 +19,8 @@
    "views": 0
   },
   "Angular-Routing": {
-   "clone_uniques": 3,
-   "clones": 3,
+   "clone_uniques": 4,
+   "clones": 4,
    "uniques": 0,
    "views": 0
   },
@@ -43,8 +43,8 @@
    "views": 0
   },
   "DevoScientist": {
-   "clone_uniques": 87,
-   "clones": 181,
+   "clone_uniques": 88,
+   "clones": 183,
    "uniques": 1,
    "views": 3
   },
@@ -61,26 +61,26 @@
    "views": 0
   },
   "HashLink": {
-   "clone_uniques": 3,
-   "clones": 3,
-   "uniques": 0,
-   "views": 0
-  },
-  "Local-RAG": {
    "clone_uniques": 4,
    "clones": 4,
    "uniques": 0,
    "views": 0
   },
-  "LunaThink": {
+  "Local-RAG": {
    "clone_uniques": 5,
    "clones": 5,
    "uniques": 0,
    "views": 0
   },
+  "LunaThink": {
+   "clone_uniques": 6,
+   "clones": 6,
+   "uniques": 0,
+   "views": 0
+  },
   "OCR-text-extraction": {
-   "clone_uniques": 5,
-   "clones": 5,
+   "clone_uniques": 6,
+   "clones": 6,
    "uniques": 0,
    "views": 0
   },
@@ -91,14 +91,14 @@
    "views": 0
   },
   "TRCG-Agent": {
-   "clone_uniques": 1,
-   "clones": 1,
+   "clone_uniques": 0,
+   "clones": 0,
    "uniques": 0,
    "views": 0
   },
   "We-Hire-Model": {
-   "clone_uniques": 4,
-   "clones": 4,
+   "clone_uniques": 5,
+   "clones": 5,
    "uniques": 0,
    "views": 0
   },
@@ -109,8 +109,8 @@
    "views": 0
   },
   "fastapi-practice": {
-   "clone_uniques": 2,
-   "clones": 2,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   },
@@ -148,6 +148,6 @@
   "system-design-primer",
   "tiny_python_projects"
  ],
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "window": "last 14 days as reported by GitHub"
 }
