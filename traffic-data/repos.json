@@ -7,8 +7,8 @@
    "views": 0
   },
   "Angular-Learning": {
-   "clone_uniques": 7,
-   "clones": 7,
+   "clone_uniques": 6,
+   "clones": 6,
    "uniques": 0,
    "views": 0
   },
@@ -19,8 +19,8 @@
    "views": 0
   },
   "Angular-Routing": {
-   "clone_uniques": 5,
-   "clones": 5,
+   "clone_uniques": 6,
+   "clones": 6,
    "uniques": 0,
    "views": 0
   },
@@ -31,20 +31,20 @@
    "views": 0
   },
   "C-Sharp-Learning": {
-   "clone_uniques": 3,
-   "clones": 3,
-   "uniques": 0,
-   "views": 0
-  },
-  "CRM-app-using-Django": {
    "clone_uniques": 4,
    "clones": 4,
    "uniques": 0,
    "views": 0
   },
+  "CRM-app-using-Django": {
+   "clone_uniques": 5,
+   "clones": 5,
+   "uniques": 0,
+   "views": 0
+  },
   "DevoScientist": {
-   "clone_uniques": 83,
-   "clones": 181,
+   "clone_uniques": 80,
+   "clones": 173,
    "uniques": 0,
    "views": 0
   },
@@ -67,8 +67,8 @@
    "views": 0
   },
   "Local-RAG": {
-   "clone_uniques": 5,
-   "clones": 5,
+   "clone_uniques": 4,
+   "clones": 4,
    "uniques": 0,
    "views": 0
   },
@@ -79,8 +79,8 @@
    "views": 0
   },
   "OCR-text-extraction": {
-   "clone_uniques": 5,
-   "clones": 5,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   },
@@ -121,8 +121,8 @@
    "views": 0
   },
   "health-care-app": {
-   "clone_uniques": 4,
-   "clones": 4,
+   "clone_uniques": 5,
+   "clones": 5,
    "uniques": 0,
    "views": 0
   },
@@ -148,6 +148,6 @@
   "system-design-primer",
   "tiny_python_projects"
  ],
- "updated": "2026-10-23",
+ "updated": "2026-10-24",
  "window": "last 14 days as reported by GitHub"
 }
