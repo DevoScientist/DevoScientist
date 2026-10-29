@@ -1,8 +1,8 @@
 {
  "counted": {
   "A2A-protocol": {
-   "clone_uniques": 6,
-   "clones": 7,
+   "clone_uniques": 8,
+   "clones": 9,
    "uniques": 0,
    "views": 0
   },
@@ -31,20 +31,20 @@
    "views": 0
   },
   "C-Sharp-Learning": {
-   "clone_uniques": 5,
-   "clones": 5,
-   "uniques": 0,
-   "views": 0
-  },
-  "CRM-app-using-Django": {
    "clone_uniques": 4,
    "clones": 4,
    "uniques": 0,
    "views": 0
   },
+  "CRM-app-using-Django": {
+   "clone_uniques": 5,
+   "clones": 5,
+   "uniques": 0,
+   "views": 0
+  },
   "DevoScientist": {
-   "clone_uniques": 74,
-   "clones": 171,
+   "clone_uniques": 70,
+   "clones": 166,
    "uniques": 0,
    "views": 0
   },
@@ -61,8 +61,8 @@
    "views": 0
   },
   "HashLink": {
-   "clone_uniques": 4,
-   "clones": 5,
+   "clone_uniques": 3,
+   "clones": 4,
    "uniques": 0,
    "views": 0
   },
@@ -73,8 +73,8 @@
    "views": 0
   },
   "LunaThink": {
-   "clone_uniques": 8,
-   "clones": 9,
+   "clone_uniques": 7,
+   "clones": 8,
    "uniques": 1,
    "views": 1
   },
@@ -97,8 +97,8 @@
    "views": 0
   },
   "We-Hire-Model": {
-   "clone_uniques": 4,
-   "clones": 4,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   },
@@ -115,8 +115,8 @@
    "views": 0
   },
   "harmony.ai": {
-   "clone_uniques": 5,
-   "clones": 6,
+   "clone_uniques": 6,
+   "clones": 7,
    "uniques": 0,
    "views": 0
   },
@@ -127,8 +127,8 @@
    "views": 0
   },
   "security": {
-   "clone_uniques": 4,
-   "clones": 5,
+   "clone_uniques": 6,
+   "clones": 7,
    "uniques": 0,
    "views": 0
   }
@@ -148,6 +148,6 @@
   "system-design-primer",
   "tiny_python_projects"
  ],
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "window": "last 14 days as reported by GitHub"
 }
