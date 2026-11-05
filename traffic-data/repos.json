@@ -43,8 +43,8 @@
    "views": 0
   },
   "DevoScientist": {
-   "clone_uniques": 66,
-   "clones": 150,
+   "clone_uniques": 60,
+   "clones": 142,
    "uniques": 0,
    "views": 0
   },
@@ -67,8 +67,8 @@
    "views": 0
   },
   "Local-RAG": {
-   "clone_uniques": 3,
-   "clones": 4,
+   "clone_uniques": 4,
+   "clones": 5,
    "uniques": 0,
    "views": 0
   },
@@ -109,14 +109,14 @@
    "views": 0
   },
   "fastapi-practice": {
-   "clone_uniques": 3,
-   "clones": 4,
+   "clone_uniques": 5,
+   "clones": 7,
    "uniques": 0,
    "views": 0
   },
   "harmony.ai": {
-   "clone_uniques": 6,
-   "clones": 8,
+   "clone_uniques": 5,
+   "clones": 7,
    "uniques": 0,
    "views": 0
   },
@@ -127,8 +127,8 @@
    "views": 0
   },
   "security": {
-   "clone_uniques": 4,
-   "clones": 5,
+   "clone_uniques": 5,
+   "clones": 6,
    "uniques": 0,
    "views": 0
   }
@@ -148,6 +148,6 @@
   "system-design-primer",
   "tiny_python_projects"
  ],
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "window": "last 14 days as reported by GitHub"
 }
