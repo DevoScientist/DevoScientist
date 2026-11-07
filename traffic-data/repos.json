@@ -19,32 +19,32 @@
    "views": 0
   },
   "Angular-Routing": {
-   "clone_uniques": 2,
-   "clones": 3,
-   "uniques": 0,
-   "views": 0
-  },
-  "Angular-eCommerce-App": {
    "clone_uniques": 1,
    "clones": 2,
    "uniques": 0,
    "views": 0
   },
+  "Angular-eCommerce-App": {
+   "clone_uniques": 2,
+   "clones": 3,
+   "uniques": 0,
+   "views": 0
+  },
   "C-Sharp-Learning": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "uniques": 0,
+   "views": 0
+  },
+  "CRM-app-using-Django": {
    "clone_uniques": 3,
    "clones": 3,
    "uniques": 0,
    "views": 0
   },
-  "CRM-app-using-Django": {
-   "clone_uniques": 4,
-   "clones": 4,
-   "uniques": 0,
-   "views": 0
-  },
   "DevoScientist": {
-   "clone_uniques": 60,
-   "clones": 144,
+   "clone_uniques": 58,
+   "clones": 143,
    "uniques": 0,
    "views": 0
   },
@@ -103,8 +103,8 @@
    "views": 0
   },
   "fastapi-auth-RBAC": {
-   "clone_uniques": 5,
-   "clones": 6,
+   "clone_uniques": 6,
+   "clones": 7,
    "uniques": 0,
    "views": 0
   },
@@ -121,8 +121,8 @@
    "views": 0
   },
   "health-care-app": {
-   "clone_uniques": 2,
-   "clones": 3,
+   "clone_uniques": 1,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
@@ -148,6 +148,6 @@
   "system-design-primer",
   "tiny_python_projects"
  ],
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "window": "last 14 days as reported by GitHub"
 }
