@@ -8,7 +8,7 @@
   },
   "Angular-Learning": {
    "clone_uniques": 1,
-   "clones": 2,
+   "clones": 1,
    "uniques": 0,
    "views": 0
   },
@@ -20,7 +20,7 @@
   },
   "Angular-Routing": {
    "clone_uniques": 1,
-   "clones": 2,
+   "clones": 1,
    "uniques": 0,
    "views": 0
   },
@@ -55,8 +55,8 @@
    "views": 0
   },
   "HRMS-frontend-college-internship": {
-   "clone_uniques": 1,
-   "clones": 1,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
@@ -73,8 +73,8 @@
    "views": 0
   },
   "LunaThink": {
-   "clone_uniques": 7,
-   "clones": 7,
+   "clone_uniques": 4,
+   "clones": 4,
    "uniques": 5,
    "views": 5
   },
@@ -103,8 +103,8 @@
    "views": 0
   },
   "fastapi-auth-RBAC": {
-   "clone_uniques": 4,
-   "clones": 4,
+   "clone_uniques": 5,
+   "clones": 5,
    "uniques": 0,
    "views": 0
   },
@@ -127,8 +127,8 @@
    "views": 0
   },
   "security": {
-   "clone_uniques": 4,
-   "clones": 5,
+   "clone_uniques": 5,
+   "clones": 6,
    "uniques": 0,
    "views": 0
   }
@@ -148,6 +148,6 @@
   "system-design-primer",
   "tiny_python_projects"
  ],
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "window": "last 14 days as reported by GitHub"
 }
