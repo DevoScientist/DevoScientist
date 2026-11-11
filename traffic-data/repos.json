@@ -1,8 +1,8 @@
 {
  "counted": {
   "A2A-protocol": {
-   "clone_uniques": 4,
-   "clones": 5,
+   "clone_uniques": 5,
+   "clones": 6,
    "uniques": 0,
    "views": 0
   },
@@ -13,8 +13,8 @@
    "views": 0
   },
   "Angular-Role-App": {
-   "clone_uniques": 2,
-   "clones": 3,
+   "clone_uniques": 3,
+   "clones": 4,
    "uniques": 0,
    "views": 0
   },
@@ -43,14 +43,14 @@
    "views": 0
   },
   "DevoScientist": {
-   "clone_uniques": 53,
-   "clones": 132,
+   "clone_uniques": 51,
+   "clones": 125,
    "uniques": 0,
    "views": 0
   },
   "Frontend-Mental-Health": {
-   "clone_uniques": 3,
-   "clones": 3,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
@@ -67,16 +67,16 @@
    "views": 0
   },
   "Local-RAG": {
-   "clone_uniques": 4,
-   "clones": 4,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   },
   "LunaThink": {
-   "clone_uniques": 4,
-   "clones": 4,
-   "uniques": 5,
-   "views": 5
+   "clone_uniques": 5,
+   "clones": 6,
+   "uniques": 4,
+   "views": 4
   },
   "OCR-text-extraction": {
    "clone_uniques": 2,
@@ -116,7 +116,7 @@
   },
   "harmony.ai": {
    "clone_uniques": 5,
-   "clones": 6,
+   "clones": 7,
    "uniques": 0,
    "views": 0
   },
@@ -148,6 +148,6 @@
   "system-design-primer",
   "tiny_python_projects"
  ],
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "window": "last 14 days as reported by GitHub"
 }
