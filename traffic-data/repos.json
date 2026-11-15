@@ -43,8 +43,8 @@
    "views": 0
   },
   "DevoScientist": {
-   "clone_uniques": 53,
-   "clones": 121,
+   "clone_uniques": 51,
+   "clones": 115,
    "uniques": 0,
    "views": 0
   },
@@ -67,20 +67,20 @@
    "views": 0
   },
   "Local-RAG": {
-   "clone_uniques": 4,
-   "clones": 5,
+   "clone_uniques": 3,
+   "clones": 4,
    "uniques": 0,
    "views": 0
   },
   "LunaThink": {
    "clone_uniques": 6,
    "clones": 7,
-   "uniques": 3,
-   "views": 3
+   "uniques": 2,
+   "views": 2
   },
   "OCR-text-extraction": {
-   "clone_uniques": 3,
-   "clones": 4,
+   "clone_uniques": 4,
+   "clones": 5,
    "uniques": 0,
    "views": 0
   },
@@ -148,6 +148,6 @@
   "system-design-primer",
   "tiny_python_projects"
  ],
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "window": "last 14 days as reported by GitHub"
 }
