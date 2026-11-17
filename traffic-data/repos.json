@@ -14,7 +14,7 @@
   },
   "Angular-Role-App": {
    "clone_uniques": 2,
-   "clones": 3,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
@@ -103,8 +103,8 @@
    "views": 0
   },
   "fastapi-auth-RBAC": {
-   "clone_uniques": 3,
-   "clones": 4,
+   "clone_uniques": 4,
+   "clones": 5,
    "uniques": 0,
    "views": 0
   },
@@ -148,6 +148,6 @@
   "system-design-primer",
   "tiny_python_projects"
  ],
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "window": "last 14 days as reported by GitHub"
 }
