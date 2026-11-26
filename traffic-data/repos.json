@@ -7,8 +7,8 @@
    "views": 0
   },
   "Angular-Learning": {
-   "clone_uniques": 3,
-   "clones": 4,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
@@ -19,8 +19,8 @@
    "views": 0
   },
   "Angular-Routing": {
-   "clone_uniques": 3,
-   "clones": 4,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
@@ -37,20 +37,20 @@
    "views": 0
   },
   "CRM-app-using-Django": {
-   "clone_uniques": 3,
-   "clones": 4,
+   "clone_uniques": 2,
+   "clones": 2,
    "uniques": 0,
    "views": 0
   },
   "DevoScientist": {
-   "clone_uniques": 43,
-   "clones": 86,
+   "clone_uniques": 47,
+   "clones": 91,
    "uniques": 0,
    "views": 0
   },
   "Frontend-Mental-Health": {
-   "clone_uniques": 4,
-   "clones": 5,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 1,
    "views": 1
   },
@@ -67,20 +67,20 @@
    "views": 0
   },
   "Local-RAG": {
-   "clone_uniques": 4,
-   "clones": 6,
+   "clone_uniques": 3,
+   "clones": 4,
    "uniques": 0,
    "views": 0
   },
   "LunaThink": {
    "clone_uniques": 6,
-   "clones": 9,
+   "clones": 10,
    "uniques": 1,
    "views": 2
   },
   "OCR-text-extraction": {
-   "clone_uniques": 4,
-   "clones": 5,
+   "clone_uniques": 3,
+   "clones": 3,
    "uniques": 0,
    "views": 0
   },
@@ -148,6 +148,6 @@
   "system-design-primer",
   "tiny_python_projects"
  ],
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "window": "last 14 days as reported by GitHub"
 }
